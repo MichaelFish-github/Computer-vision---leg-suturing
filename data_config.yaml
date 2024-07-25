@@ -1,0 +1,11 @@
+names:
+- Empty
+- Tweezers
+- Needle_driver
+nc: 3
+path: C:/Users/micah/OneDrive - Technion/Technion/8th Semester/Computer Vision in
+  Operation room/HW1/data/labeled_image_data
+train: C:/Users/micah/OneDrive - Technion/Technion/8th Semester/Computer Vision in
+  Operation room/HW1/data/labeled_image_data\images/train
+val: C:/Users/micah/OneDrive - Technion/Technion/8th Semester/Computer Vision in Operation
+  room/HW1/data/labeled_image_data\images/val
